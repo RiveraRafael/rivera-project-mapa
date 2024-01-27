@@ -1,0 +1,35 @@
+Antigua and Barbuda;a
+Argentina;Argentine Republic;a
+Bahamas;Commonwealth of the Bahamas;a
+Barbados;a
+Belize;a
+Bolivia;Plurinational State of Bolivia;a
+Brazil;Federative Republic of Brazil;a
+Canada;a
+Chile;Republiv of Chile;a
+Colombia;Republic of Colombia;a
+Costa Rica;Republic of Costa Rica;a
+Cuba;Republic of Cuba;a
+Dominica;Commonwealth of Dominica;a
+Dominican Republic;a
+Ecuador;Republic of Ecuador;a
+El Salvador;Republic of El Salvador;a
+Grenada;a
+Guatamela;Republic of Guatamela;a
+Guyana;Co-operative Republic of Guyana;a
+Haiti;Republic of Haiti;a
+Honduras;Republic of Honduras;a
+Jamaica;a
+Mexico;United Mexican States;a
+Nicaragua;Republic of Nicaragua;a
+Panama;Republic of Panama;a
+Paraguay;Republic of Paraguay;a
+Peru;Republic of Peru;a
+Saint Kitts and Nevis; Federation of Saint Kitts and Nevis;a
+Saint Lucia;a
+Saint Vincent and the Grenadines;a
+Suriname;Republic of Suriname;a
+Trinidad and Tobago;Republic of Trinidad and Tobago;a
+United States;The United States;The United States of America;United States of America;US;USA;cheeseburgerfreedomman
+Uruguay;Oriental Republic of Uruguay;a
+Venezuela;Bolivarian Republic of Venezuela;a

@@ -1,0 +1,44 @@
+Iceland;Republic of Iceland;a
+Norway;Kingdom of Norway;a
+Sweden;Kingdom of Sweden;a
+Finland;Republic of Finland;a
+Denmark;Kingdom of Denmark;a
+Russia;Russian Federation;a
+Estonia;Republic of Estonia;a
+Latvia;Republic of Latvia;a
+Lithuania;Republic of Lithuania;a
+Netherlands;Kingdom of the Netherlands;a
+Belgium;Kingdom of Belgium;a
+Luxembourg;Grand Duchy of Luxembourg;a
+Germany;Federal Republic of Germany;a
+Poland;Republic of Poland;a
+Belarus;Republic of Belarus;a
+Ukraine;a
+Czechia;Czech Republic;a
+Slovakia;Slovak Republic;a
+France;French Republic;a
+Switzerland;Swiss Confederation;a
+Liechtenstein;Principlatiy of Liechtenstein;a
+Austria;Republic of Austria;a
+Hungary;a
+Romania;a
+Moldova;Republic of Moldova;a
+Spain;Kingdom of Spain;a
+Portugal;Portuguese Republic;a
+Andorra;Principality of Andorra;a
+Italy;Italian Republic;a
+Monaco;Principality of Monaco;a
+San Marino;Republic of San Marino;a
+Vatican;The Vatican;Vatican City;Holy See;The Holy See;a
+Slovenia;Slovak Republic;a
+Croatia;Republic of Croatia;a
+Serbia;Republic of Serbia;a
+Bosnia and Herzegovina;Bosnia-Herzegovina;Bosnia;a
+Montenegro;a
+Albania;Republic of Albania;a
+Greece;Hellas;Hellenic Republic;a
+Bulgaria;Republic of Bulgaria;a
+Cyprus;Republic of Cyprus;a
+Malta;Republic of Malta;a
+United Kingdom;The United Kingdom;The United Kingdom of Great Britain;The United Kingdom of Great Britain and Northern Ireland;United Kingdom of Great Britain;United Kingdom of Great Britain and Northern Ireland;Great Britain;Britain;UK;a
+Ireland;a

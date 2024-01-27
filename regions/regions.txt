@@ -1,0 +1,6 @@
+reg1="Asia"
+reg2="Europe"
+reg3="Americas"
+reg4="Africa"
+reg5="Oceania"
+reg6="World"

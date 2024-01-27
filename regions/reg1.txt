@@ -1,0 +1,48 @@
+Myanmar;Burma;Union of Myanmar;Republic of the Union of Myanmar;a
+Laos;Lao People's Democratic Republic;a
+Vietnam;Viet Nam;Socialist Republic of Vietnam;Socialist Republic of Viet Nam;a
+Thailand;Kingdom of Thailand;a
+Cambodia;Kingdom of Cambodia;a
+Malaysia;a
+Singapore;Republic of Singapore;a
+Philippines;The Philippines;Republic of the Philippines;a
+Brunei Darussalam;Brunei;Nation of Brunei;Brunei, The Abode of Peace;Nation of Brunei, The Abode of Peace;a
+Indonesia;Republic of Indonesia;a
+East Timor;Timor-Leste;Democratic Republic of Timor-Leste;Democratic Republic of East Timor;a
+China;People's Republic of China;a
+Japan;State of Japan;a
+Mongolia;a
+North Korea;Democratic People's Republic of Korea;a
+South Korea;Republic of Korea;a
+India;Republic of India;a
+Pakistan;Islamic Republic of Pakistan;a
+Bangladesh;People's Republic of Bangladesh;a
+Bhutan;Kingdom of Bhutan;a
+Nepal;Federal Democratic Republic of Nepal;a
+Sri Lanka;Democratic Socialist Republic of Sri Lanka;a
+Maldives;Republic of Maldives;a
+Kazakhstan;Republic of Kazakhstan;a
+Uzbekistan;Republic of Uzbekistan;a
+Kyrgyzstan;Kyrgyz Republic;a
+Tajikistan;Republic of Tajikistan;a
+Turkmenistan;a
+Afghanistan;Islamic Emirate of Afghanistan;a
+Iran;Islamic Republic of Iran;a
+Iraq;Republic of Iraq;a
+Turkey;Republic of Turkey;a
+Syria;Syrian Arab Republic;a
+Israel;State of Israel;a
+Palestine; State of Palestine;a
+Lebanon;Lebanese Republic;a
+Jordan;Hashemite Kingdom of Jordan;a
+Saudi Arabia;Kingdom of Saudi Arabia;a
+Yemen;Republic of Yemen;a
+Oman;Sultanate of Oman;a
+United Arab Emirates;UAE;a
+Qatar;State of Qatar;a
+Bahrain;Kingdom of Bahrain;a
+Kuwait;State of Kuwait;a
+Georgia;a
+Armenia;Republic of Armenia;a
+Qatar;State of Qatar;a
+Bahrain;Kingdom of Bahrain;a

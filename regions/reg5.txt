@@ -1,0 +1,14 @@
+Australia;Commonwealth of Australia;a
+Micronesia;Federated States of Micronesia;a
+Fiji;Republic of Fiji;a
+Kiribati;Republic of Kiribati;a
+Marshall Islands;Republic of the Marshall Islands;a
+Nauru;Republic of Nauru;a
+New Zealand;a
+Palau;Republic of Palau;a
+Papua New Guinea;Independent State of Papua New Guinea;a
+Samoa;Independent State of Samoa;a
+Solomon Islands;a
+Tonga;Kingdom of Tonga;a
+Tuvalu;a
+Vanuatu;Republic of Vanatu;a

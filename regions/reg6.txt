@@ -1,0 +1,194 @@
+Myanmar;Burma;Union of Myanmar;Republic of the Union of Myanmar;a
+Laos;Lao People's Democratic Republic;a
+Vietnam;Viet Nam;Socialist Republic of Vietnam;Socialist Republic of Viet Nam;a
+Thailand;Kingdom of Thailand;a
+Cambodia;Kingdom of Cambodia;a
+Malaysia;a
+Singapore;Republic of Singapore;a
+Philippines;The Philippines;Republic of the Philippines;a
+Brunei Darussalam;Brunei;Nation of Brunei;Brunei, The Abode of Peace;Nation of Brunei, The Abode of Peace;a
+Indonesia;Republic of Indonesia;a
+East Timor;Timor-Leste;Democratic Republic of Timor-Leste;Democratic Republic of East Timor;a
+China;People's Republic of China;a
+Japan;State of Japan;a
+Mongolia;a
+North Korea;Democratic People's Republic of Korea;a
+South Korea;Republic of Korea;a
+India;Republic of India;a
+Pakistan;Islamic Republic of Pakistan;a
+Bangladesh;People's Republic of Bangladesh;a
+Bhutan;Kingdom of Bhutan;a
+Nepal;Federal Democratic Republic of Nepal;a
+Sri Lanka;Democratic Socialist Republic of Sri Lanka;a
+Maldives;Republic of Maldives;a
+Kazakhstan;Republic of Kazakhstan;a
+Uzbekistan;Republic of Uzbekistan;a
+Kyrgyzstan;Kyrgyz Republic;a
+Tajikistan;Republic of Tajikistan;a
+Turkmenistan;a
+Afghanistan;Islamic Emirate of Afghanistan;a
+Iran;Islamic Republic of Iran;a
+Iraq;Republic of Iraq;a
+Turkey;Republic of Turkey;a
+Syria;Syrian Arab Republic;a
+Israel;State of Israel;a
+Palestine; State of Palestine;a
+Lebanon;Lebanese Republic;a
+Jordan;Hashemite Kingdom of Jordan;a
+Saudi Arabia;Kingdom of Saudi Arabia;a
+Yemen;Republic of Yemen;a
+Oman;Sultanate of Oman;a
+United Arab Emirates;UAE;a
+Qatar;State of Qatar;a
+Bahrain;Kingdom of Bahrain;a
+Kuwait;State of Kuwait;a
+Georgia;a
+Armenia;Republic of Armenia;a
+Azerbaijan;Republic of Azerbaijan;a
+Iceland;Republic of Iceland;a
+Norway;Kingdom of Norway;a
+Sweden;Kingdom of Sweden;a
+Finland;Republic of Finland;a
+Denmark;Kingdom of Denmark;a
+Russia;Russian Federation;a
+Estonia;Republic of Estonia;a
+Latvia;Republic of Latvia;a
+Lithuania;Republic of Lithuania;a
+Netherlands;Kingdom of the Netherlands;a
+Belgium;Kingdom of Belgium;a
+Luxembourg;Grand Duchy of Luxembourg;a
+Germany;Federal Republic of Germany;a
+Poland;Republic of Poland;a
+Belarus;Republic of Belarus;a
+Ukraine;a
+Czechia;Czech Republic;a
+Slovakia;Slovak Republic;a
+France;French Republic;a
+Switzerland;Swiss Confederation;a
+Liechtenstein;Principlatiy of Liechtenstein;a
+Austria;Republic of Austria;a
+Hungary;a
+Romania;a
+Moldova;Republic of Moldova;a
+Spain;Kingdom of Spain;a
+Portugal;Portuguese Republic;a
+Andorra;Principality of Andorra;a
+Italy;Italian Republic;a
+Monaco;Principality of Monaco;a
+San Marino;Republic of San Marino;a
+Vatican;The Vatican;Vatican City;Holy See;The Holy See;a
+Slovenia;Slovak Republic;a
+Croatia;Republic of Croatia;a
+Serbia;Republic of Serbia;a
+Bosnia and Herzegovina;Bosnia-Herzegovina;Bosnia;a
+Montenegro;a
+Albania;Republic of Albania;a
+Greece;Hellas;Hellenic Republic;a
+Bulgaria;Republic of Bulgaria;a
+Cyprus;Republic of Cyprus;a
+Malta;Republic of Malta;a
+United Kingdom;The United Kingdom;The United Kingdom of Great Britain;The United Kingdom of Great Britain and Northern Ireland;United Kingdom of Great Britain;United Kingdom of Great Britain and Northern Ireland;Great Britain;Britain;UK;a
+Ireland;a
+Antigua and Barbuda;a
+Argentina;Argentine Republic;a
+Bahamas;Commonwealth of the Bahamas;a
+Barbados;a
+Belize;a
+Bolivia;Plurinational State of Bolivia;a
+Brazil;Federative Republic of Brazil;a
+Canada;a
+Chile;Republiv of Chile;a
+Colombia;Republic of Colombia;a
+Costa Rica;Republic of Costa Rica;a
+Cuba;Republic of Cuba;a
+Dominica;Commonwealth of Dominica;a
+Dominican Republic;a
+Ecuador;Republic of Ecuador;a
+El Salvador;Republic of El Salvador;a
+Grenada;a
+Guatamela;Republic of Guatamela;a
+Guyana;Co-operative Republic of Guyana;a
+Haiti;Republic of Haiti;a
+Honduras;Republic of Honduras;a
+Jamaica;a
+Mexico;United Mexican States;a
+Nicaragua;Republic of Nicaragua;a
+Panama;Republic of Panama;a
+Paraguay;Republic of Paraguay;a
+Peru;Republic of Peru;a
+Saint Kitts and Nevis; Federation of Saint Kitts and Nevis;a
+Saint Lucia;a
+Saint Vincent and the Grenadines;a
+Suriname;Republic of Suriname;a
+Trinidad and Tobago;Republic of Trinidad and Tobago;a
+United States;The United States;The United States of America;United States of America;US;USA;cheeseburgerfreedomman
+Uruguay;Oriental Republic of Uruguay;a
+Venezuela;Bolivarian Republic of Venezuela;a
+Algeria;People's Democratic Republic of Algeria;a
+Angola;Republic of Angola;a
+Benin;Republic of Benin;a
+Botswana;Republic of Botswana;a
+Burkina Faso;a
+Burundi;Republic of Burundi;a
+Cameroon;Republic of Cameroon;a
+Cape Verde;Republic of Cape Verde;a
+Central African Republic;CAR;a
+Chad;Republic of Chad;a
+Comoros;Union of the Comoros;a
+Democratic Republic of the Congo;a
+Republic of the Congo;a
+Djibouti;Republic of Djibouti;a
+Egypt;Arab Republic of Egypt;a
+Equatorial Guinea;Republic of Equatorial Guinea;a
+Eritrea;State of Eritrea;a
+Eswatini;Kingdom of Eswatini;a
+Ethiopia;Federal Democratic Republic of Ethiopia;a
+Gabon;Gabonese Republic;a
+The Gambia;Republic of the Gambia;a
+Ghana;Republic of Ghana;a
+Guinea;Republic of Guinea;a
+Guinea-Bissau;Republic of Guinea Bissau;a
+Ivory Coast;Cote d'Ivoire;Republic of Cote d'Ivoire;a
+Kenya;Republic of Kenya;a
+Lesotho;Kingdom of Lesotho;a
+Libera;Republic of Liberia;a
+Libya;State of Libya;a
+Madagascar;Republic of Madagascar;a
+Malawi;Republic of Malawi;a
+Mali;Republic of Mali;a
+Mauritania;Islamic Republic of Mauritania;a
+Mauritius;Republic of Mauritius;a
+Morocco;Kingdom of Morocco;a
+Mozambique;Republic of Mozambique;a
+Namibia;Republic of Namibia;a
+Niger;Republic of the Niger;a
+Nigeria;Federal Republic of Nigeria;a
+Rwanda;Republic of Rwanda;a
+Sao Tome and Principe;Democratic Republic of Sao Tome and Principe;a
+Senegal;Republic of Senegal;a
+Seychelles;Republic of Seychelles;a
+Sierra Leone;Republic of Sierra Leone;a
+Somalia;Federal Republic of Somalia;a
+South Africa;Republic of South Africa;a
+South Sudan;Republic of South Sudan;a
+Sudan;Republic of the Sudan;a
+Tanzania;United Republic of Tanzania;a
+Togo;Togolese Republic;a
+Tunisia;Tunisian Republic;a
+Uganda;Republic of Uganda;a
+Zambia;Republic of Zambia;a
+Zimbabwe;Republic of Zimbabwe;a
+Australia;Commonwealth of Australia;a
+Micronesia;Federated States of Micronesia;a
+Fiji;Republic of Fiji;a
+Kiribati;Republic of Kiribati;a
+Marshall Islands;Republic of the Marshall Islands;a
+Nauru;Republic of Nauru;a
+New Zealand;a
+Palau;Republic of Palau;a
+Papua New Guinea;Independent State of Papua New Guinea;a
+Samoa;Independent State of Samoa;a
+Solomon Islands;a
+Tonga;Kingdom of Tonga;a
+Tuvalu;a
+Vanuatu;Republic of Vanatu;a

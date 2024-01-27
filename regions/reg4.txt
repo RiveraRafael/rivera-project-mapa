@@ -1,0 +1,54 @@
+Algeria;People's Democratic Republic of Algeria;a
+Angola;Republic of Angola;a
+Benin;Republic of Benin;a
+Botswana;Republic of Botswana;a
+Burkina Faso;a
+Burundi;Republic of Burundi;a
+Cameroon;Republic of Cameroon;a
+Cape Verde;Republic of Cape Verde;a
+Central African Republic;CAR;a
+Chad;Republic of Chad;a
+Comoros;Union of the Comoros;a
+Democratic Republic of the Congo;a
+Republic of the Congo;a
+Djibouti;Republic of Djibouti;a
+Egypt;Arab Republic of Egypt;a
+Equatorial Guinea;Republic of Equatorial Guinea;a
+Eritrea;State of Eritrea;a
+Eswatini;Kingdom of Eswatini;a
+Ethiopia;Federal Democratic Republic of Ethiopia;a
+Gabon;Gabonese Republic;a
+The Gambia;Republic of the Gambia;a
+Ghana;Republic of Ghana;a
+Guinea;Republic of Guinea;a
+Guinea-Bissau;Republic of Guinea Bissau;a
+Ivory Coast;Cote d'Ivoire;Republic of Cote d'Ivoire;a
+Kenya;Republic of Kenya;a
+Lesotho;Kingdom of Lesotho;a
+Libera;Republic of Liberia;a
+Libya;State of Libya;a
+Madagascar;Republic of Madagascar;a
+Malawi;Republic of Malawi;a
+Mali;Republic of Mali;a
+Mauritania;Islamic Republic of Mauritania;a
+Mauritius;Republic of Mauritius;a
+Morocco;Kingdom of Morocco;a
+Mozambique;Republic of Mozambique;a
+Namibia;Republic of Namibia;a
+Niger;Republic of the Niger;a
+Nigeria;Federal Republic of Nigeria;a
+Rwanda;Republic of Rwanda;a
+Sao Tome and Principe;Democratic Republic of Sao Tome and Principe;a
+Senegal;Republic of Senegal;a
+Seychelles;Republic of Seychelles;a
+Sierra Leone;Republic of Sierra Leone;a
+Somalia;Federal Republic of Somalia;a
+South Africa;Republic of South Africa;a
+South Sudan;Republic of South Sudan;a
+Sudan;Republic of the Sudan;a
+Tanzania;United Republic of Tanzania;a
+Togo;Togolese Republic;a
+Tunisia;Tunisian Republic;a
+Uganda;Republic of Uganda;a
+Zambia;Republic of Zambia;a
+Zimbabwe;Republic of Zimbabwe;a
